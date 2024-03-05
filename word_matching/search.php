@@ -10,7 +10,7 @@ try {
 }
 // $queryを使ってデータベースから結果を取得するクエリを実行
 if (isset($_POST['query']) and $_POST['query'] != "") {
-    $sql = "SELECT * FROM tags WHERE name LIKE ?";
+    $sql = "SELECT * FROM tags WHERE word LIKE ?";
     $stmt = $dbh->prepare($sql);
     $query = $_POST['query'];
     $stmt->bindValue(1, "%$query%", PDO::PARAM_STR);
