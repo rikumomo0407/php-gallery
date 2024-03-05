@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 let results = JSON.parse(xhr.responseText);
                 let text = '';
                 results.forEach(function(result) {
-                    text = text + "<li>" + result['word'] + "</li>";
+                    text = text + "<li>" + result['name'] + "</li>";
                 });
                 searchResults.innerHTML = text;
             }
