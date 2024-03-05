@@ -6,7 +6,7 @@
 使用例では、Qiitaのタグ5000個を検索できるフォームを作っています。データは２０２４年３月５日時点のものとなっています。
 
 使用例
-http://rikumomo.starfree.jp/php-gallary/word_matching/
+http://rikumomo.starfree.jp/php-gallery/word_matching/
 
 動作環境
 PHP 8.2.16
