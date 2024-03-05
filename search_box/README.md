@@ -11,10 +11,10 @@ http://rikumomo.starfree.jp/php-gallery/search_box/
 データ引用元
 https://hogehoge.tk/personal/generator/
 
-動作環境
-PHP 8.2.16
-
 ***
+
+⚙️動作環境
+・ PHP 8.2.16
 
 📁フォルダの説明
 
