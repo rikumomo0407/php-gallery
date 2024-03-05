@@ -8,10 +8,14 @@
 使用例
 http://rikumomo.starfree.jp/php-gallery/word_matching/
 
-動作環境
-PHP 8.2.16
+データ引用元
+https://qiita.com/tags
 
 ***
+
+⚙️動作環境
+
+・ PHP 8.2.16
 
 📁フォルダの説明
 
