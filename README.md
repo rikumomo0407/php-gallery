@@ -9,7 +9,7 @@
 ## 更新情報
 
 ・ 24-03-
-検索窓(search_box)を追加
+php-galleryに検索窓(search_box)を追加
 
 ・ 24-03-06
-ワードマッチング(word_matching)を追加
+php-galleryにワードマッチング(word_matching)を追加
